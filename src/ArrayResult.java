@@ -1,5 +1,3 @@
-package week9Prac;
-
 class ArrayResult {
   private int[] array;
   private int count;
